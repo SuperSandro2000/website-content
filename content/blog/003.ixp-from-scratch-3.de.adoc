@@ -107,7 +107,7 @@ and
 link:https://manrs.org/2020/12/ixp-peering-platform-an-environment-to-take-care-of[MANRS].
 
 [#img-pop,link=https://content.dd-ix.net/blog/assets/]
-image::003_pop.webp[]
+image::003_pop.svg[]
 
 That looks like a simple setup, doesn’t it? In reality, however,
 different types of remote stations are connected to this VLAN with
@@ -119,7 +119,7 @@ different levels of trustworthiness:
 trustworthy).
 
 [#img-backhaul,link=https://content.dd-ix.net/blog/assets/]
-image::003_backhaul.webp[]
+image::003_backhaul.svg[]
 
 What could possibly go wrong?
 
